@@ -1,1 +1,2 @@
 sang thu lam update
+khi mo git bash here tren may tinh,  no yeu cau nhap username thi nhap dia chi mail, xong nhap password tren cua so hien len 
