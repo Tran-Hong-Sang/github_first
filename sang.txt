@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 sang thu lam update sabnm
+=======
+sang thu lam update
+khi mo git bash here tren may tinh,  no yeu cau nhap username thi nhap dia chi mail, xong nhap password tren cua so hien len 
+>>>>>>> e9f690446435283265aecb71bc7af5e93c403a1c
